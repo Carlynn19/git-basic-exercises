@@ -1,0 +1,395 @@
+    1  cd </home/Teneille>
+    2  cd home:\Teneille
+    3  cd
+    4  ls
+    5  mkdir <home>
+    6  mkdir home
+    7  ls
+    8  cd /home/Teneille
+    9  mkdir home
+   10  ls
+   11   
+   12  ls
+   13  ls/data
+   14  ls /etc/per1
+   15  ls /
+   16  pwd
+   17  mkdir Learning_unix
+   18  ls
+   19  cd Learning_unix
+   20  mkdir Outer_directory
+   21  cd Outer_directory
+   22  mkdir Inner_directory
+   23  cd Inner directory
+   24  cd Inner directory/
+   25  cd 'Inner directory/
+   26  cd
+   27  /
+   28  '
+   29  cd 'Inner directory'
+   30  mkdir Inner directory
+   31  cd 'Inner directory'
+   32  cd Inner directory
+   33  cd 'Inner directory/'
+   34  cd Inner\directory
+   35  cd "Inner directory"
+   36  cd Inner\ directory
+   37  mkdir "Inner directory"
+   38  cd "Inner directory"
+   39  mkdir -p Outer-directory/Inner_directory
+   40  cd /
+   41  cd home
+   42  cd c
+   43  cd Teneille
+   44  cd Users
+   45  cd Teneille
+   46  cd Learning-unix/
+   47  cd Learning_unix
+   48  cd ..
+   49  cd ..
+   50  cd ..
+   51  cd ..
+   52  cd ..
+   53  cd ..
+   54  cd Learning_unix
+   55  cd /c/Users/Teneille
+   56  cd Learning_unix
+   57  cd ../../..
+   58  cd /tmp
+   59  cd ..
+   60  cd /c/Users/Teneille
+   61  cd ../../../tmp
+   62  cd /c/Users/Teneille
+   63  cd ../../tmp
+   64  cd ../../../../tmp
+   65  cd /pwd
+   66  cd ~pwd
+   67  cd pwd
+   68  cd /
+   69  cd ~
+   70  cd 
+   71  cd / pwd
+   72  cd
+   73  cd Learning_unix
+   74  cd
+   75  cd Learning-unix
+   76  cd Learning_unix
+   77  cd ~
+   78  cd /
+   79  cd ~/Learning_unix
+   80  cd ~/Learning_unix/Outer_unix/
+   81  cd ~Learning_unix/Outer_unix
+   82  cd ~/Learning_unix/Outer_unix
+   83  cd Outer_unix
+   84  cd ~/Learning_unix/Outer_directory
+   85  ls ../../
+   86  cd
+   87   cd Learning_unix/Outer_directory
+   88  ls ../../
+   89  ls ../
+   90  ls ../../../
+   91  cd ../
+   92  ls -l /home
+   93  ls -l
+   94  ls -R
+   95  ls -l -t -r
+   96  ls -lh
+   97  cd 
+   98  ls -l
+   99  ls -R
+  100  man ls
+  101  man cd
+  102  man man
+  103   --help
+  104  <ls> --help
+  105  <command> --help
+  106  ls --help
+  107   cd --help
+  108  rmdir --help
+  109  cd ~/Learning_unix/Outer_directory/
+  110  rmdir Inner_directory
+  111  cd ..
+  112  rmdir Outer-directory
+  113  rmdir outer_directory
+  114  ls
+  115  cd Outer_directory
+  116  ls
+  117  rmdir 'Inner directory'
+  118  cd 'Inner directory'
+  119  ls
+  120  cd Outer-directory
+  121  ls
+  122  cd Inner_directory/
+  123  ls
+  124  rmdir Inner_directory
+  125  rmdir Inner_directory/
+  126  cd ..
+  127  rmdir Inner_directory/
+  128  ls
+  129  cd ..
+  130  rmdir Outer-directory
+  131  ls
+  132  cd ..
+  133  rmdir 'Inner directory"
+  134  /
+  135  q
+  136  '
+  137  rmdir 'Inner directory'
+  138  ls
+  139  rmdir directory/
+  140  ls
+  141  rmdir Inner/
+  142  ls
+  143  cd ..
+  144  rmdir Outer_directory
+  145  ls
+  146  cd
+  147  cd Learning_unix
+  148  history
+  149  sudo dnf install git-all
+  150  sudo dnf install git-all
+  151  sudo apt install git-all
+  152  sudo apt install git-a
+  153  sudo dnf install dh-autoreconf curl-devel expat-devel gettext-devel 
+  154  sudo apt-get install dh-autoreconf libcurl4-gnutls-dev libexpat1-dev 
+  155  git config --list --show-origin
+  156  git config --global user.name "John Doe"
+  157  git config --global user.name "Carlynn Jacobs"
+  158  git config --global user.email carlynnj@gmail.com
+  159  user/
+  160  git config --global core.editor emacs
+  161  core.editor
+  162  git config --global init.defaultBranch main
+  163  git config --list
+  164  git config user.name
+  165  git config --show-origin rerere.autoUpdate
+  166  git help config
+  167  git help <verb>
+  168  git add -h
+  169  git ls -h
+  170  git man -h
+  171  git removing -h
+  172  git rmdir -h
+  173  cd C:/Users/user/my_project
+  174  cd C:/Users/Teneille/my_project
+  175  cd C:/c/Users/Teneille/hello.py
+  176  cd /c/Users/Teneille/hello.py
+  177  git clone https://github.com/libgit2/libgit2
+  178  cd libgit2
+  179  ls
+  180   git clone https://github.com/libgit2/libgit2 mylibgit
+  181  cd mylibgit
+  182  cd..
+  183  cd ..
+  184  cd ..
+  185  cd mylibgit
+  186  git status
+  187   git clone https://github.com/libgit2/libgit2 mylibgit
+  188  git status
+  189  cd mylibgit
+  190  git status
+  191  mkdir README
+  192  git status
+  193   echo 'My Project' > README
+  194  rmdir README
+  195  echo 'My Project' > README
+  196  git status
+  197  gti add README
+  198  git add README
+  199  git add README
+  200  git status
+  201  GIT STATUS
+  202  git status
+  203  echo 'My Project' > README
+  204  gti statis
+  205  git status
+  206  cd mylibgit
+  207  gti status
+  208  gti status
+  209  git status
+  210  git clone README
+  211  ls
+  212  git status
+  213  git config --global user.name Carlynn Jacobs
+  214  git config --global user.email carlynnj@gmail.com
+  215  git config --global user
+  216  git config --global user.name
+  217  git config --global user.email
+  218  git config --global core.editor emacs
+  219  git config --global init.defaultBranch main
+  220  git config --list
+  221  git help
+  222  git status -s
+  223  cd mylibgit
+  224  git status -s
+  225  cat .gitignore
+  226  git diff
+  227  Teneille@LAPTOP-T4JDEURH MINGW64 ~
+  228  $ git config --global user.name Carlynn Jacobs
+  229  Teneille@LAPTOP-T4JDEURH MINGW64 ~
+  230  $ git config --global user.email carlynnj@gmail.com
+  231  Teneille@LAPTOP-T4JDEURH MINGW64 ~
+  232  $ git config --global user
+  233  error: key does not contain a section: user
+  234  Teneille@LAPTOP-T4JDEURH MINGW64 ~
+  235  $ git config --global user.name
+  236  Carlynn
+  237  Teneille@LAPTOP-T4JDEURH MINGW64 ~
+  238  $ git config --global user.email
+  239  carlynnj@gmail.com
+  240  Teneille@LAPTOP-T4JDEURH MINGW64 ~
+  241  $ git config --global core.editor emacs
+  242  Teneille@LAPTOP-T4JDEURH MINGW64 ~
+  243  $ git config --global init.defaultBranch main
+  244  Teneille@LAPTOP-T4JDEURH MINGW64 ~
+  245  $ git config --list
+  246  diff.astextplain.textconv=astextplain
+  247  filter.lfs.clean=git-lfs clean -- %f
+  248  filter.lfs.smudge=git-lfs smudge -- %f
+  249  filter.lfs.process=git-lfs filter-process
+  250  filter.lfs.required=true
+  251  http.sslbackend=openssl
+  252  http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+  253  core.autocrlf=true
+  254  core.fscache=true
+  255  core.symlinks=false
+  256  core.editor=nano.exe
+  257  pull.rebase=false
+  258  credential.helper=manager-core
+  259  credential.https://dev.azure.com.usehttppath=true
+  260  user.name=Carlynn
+  261  user.email=carlynnj@gmail.com
+  262  core.editor=emacs
+  263  init.defaultbranch=main
+  264  Teneille@LAPTOP-T4JDEURH MINGW64 ~
+  265  $ git help
+  266  usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+  267             [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+  268             [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+  269             [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+  270             <command> [<args>]
+  271  These are common Git commands used in various situations:
+  272  start a working area (see also: git help tutorial)
+  273     clone             Clone a repository into a new directory
+  274     init              Create an empty Git repository or reinitialize an existing one
+  275  work on the current change (see also: git help everyday)
+  276     add               Add file contents to the index
+  277     mv                Move or rename a file, a directory, or a symlink
+  278     restore           Restore working tree files
+  279     rm                Remove files from the working tree and from the index
+  280     sparse-checkout   Initialize and modify the sparse-checkout
+  281  examine the history and state (see also: git help revisions)
+  282     bisect            Use binary search to find the commit that introduced a bug
+  283     diff              Show changes between commits, commit and working tree, etc
+  284     grep              Print lines matching a pattern
+  285     log               Show commit logs
+  286     show              Show various types of objects
+  287     status            Show the working tree status
+  288  grow, mark and tweak your common history
+  289     branch            List, create, or delete branches
+  290     commit            Record changes to the repository
+  291     merge             Join two or more development histories together
+  292     rebase            Reapply commits on top of another base tip
+  293     reset             Reset current HEAD to the specified state
+  294     switch            Switch branches
+  295     tag               Create, list, delete or verify a tag object signed with GPG
+  296  collaborate (see also: git help workflows)
+  297     fetch             Download objects and refs from another repository
+  298     pull              Fetch from and integrate with another repository or a local branch
+  299     push              Update remote refs along with associated objects
+  300  'git help -a' and 'git help -g' list available subcommands and some
+  301  concept guides. See 'git help <command>' or 'git help <concept>'
+  302  to read about a specific subcommand or concept.
+  303  See 'git help git' for an overview of the system.
+  304  Teneille@LAPTOP-T4JDEURH MINGW64 ~
+  305  $ git status -s
+  306  fatal: not a git repository (or any of the parent directories): .git
+  307  Teneille@LAPTOP-T4JDEURH MINGW64 ~
+  308  $ cd mylibgit
+  309  Teneille@LAPTOP-T4JDEURH MINGW64 ~/mylibgit (master)
+  310  $ git status -s
+  311  A  README
+  312  Teneille@LAPTOP-T4JDEURH MINGW64 ~/mylibgit (master)
+  313  $ cat .gitignore
+  314  build/
+  315  .DS_Store
+  316  *~
+  317  .*.swp
+  318  tags
+  319  CMakeSettings.json
+  320  .vs
+  321  Teneille@LAPTOP-T4JDEURH MINGW64 ~/mylibgit (master)
+  322  $ git diff
+  323  Teneille@LAPTOP-T4JDEURH MINGW64 ~/mylibgit (master)
+  324  $
+  325  git difftool --tool-help
+  326  cd mylibgit
+  327  git status
+  328  cd mylibgit
+  329  git remove
+  330  git remove
+  331  git remote
+  332  git remote -v
+  333  mkdir git-basic-exercises
+  334  cd git-basic-exercises
+  335  ls -a
+  336  git init
+  337  ls -a
+  338  git status
+  339  touch README.md 
+  340  ls -a
+  341  git status
+  342  git log
+  343  git add README.md
+  344  git status
+  345  git rm --cached README.md
+  346  git status
+  347  git add README.md
+  348  git status
+  349  git commit -m "initial commit"
+  350  git log
+  351  q
+  352  Q
+  353  man q
+  354  nano README.md
+  355  cd README.md
+  356  cd git-basics-exercises
+  357  cd git-basic-exercises
+  358  nano README.md
+  359  cat README.md
+  360  git status
+  361  git add README.md
+  362   git config --global core.autocrlf true
+  363  git status
+  364  git commit -m "second commit"
+  365  nano README.md
+  366  cat README.md
+  367  git status
+  368  git add README.md
+  369  git status
+  370  git commit -m "third commit"
+  371  git log 
+  372  q
+  373  git checkout f627f0e890f83db4176788dae2d88ae0831eefce
+  374  cat README.md
+  375  git checkout main
+  376  cat README.md
+  377  git branch
+  378  git checkout -b milkshake-flavours
+  379  git branch
+  380  git checkout main
+  381  git branch
+  382  git checkout milkshake-flavours
+  383  nano milkshakes.md
+  384  git status
+  385  git add milkshakes.md
+  386  git status
+  387  git commit -m "added initial flavours"
+  388  git log
+  389  git checkout main
+  390  git log
+  391  git checkout -b history
+  392  git checkout history
+  393  git log
+  394  git branch
+  395  history > history.txt
